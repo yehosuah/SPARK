@@ -1,0 +1,294 @@
+[
+  {
+    "id": "11111111-1111-1111-1111-111111111111",
+    "seedKey": "seed-artifact-quiet-capability",
+    "family": "artifact",
+    "eyebrow": "Featured stimulus",
+    "title": "Quiet capability",
+    "summary": "A boutique hotel hides every switch behind wood panels so the room feels calm before it feels capable.",
+    "detailBody": "The object is not just beautiful. It stages power as something the user discovers in peace. That emotional move can translate into software that reveals depth without proving itself loudly.",
+    "responseCue": "Where could your work replace visible feature density with discovered confidence?",
+    "layoutEmphasis": "visualHero",
+    "heroMediaID": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "media": [
+      {
+        "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+        "kind": "image",
+        "role": "hero",
+        "storageType": "remoteURL",
+        "storageValue": "https://picsum.photos/id/1068/1200/800",
+        "caption": "Hidden controls in a calm hospitality interior",
+        "credit": "Seeded visual reference"
+      }
+    ],
+    "taxonomy": {
+      "domains": ["design", "product", "technology"],
+      "creativeGoalHints": ["strongerTaste", "moreArtisticIntention"],
+      "keywords": ["restraint", "interface", "calm"],
+      "editorialTags": ["premium", "quiet capability"]
+    },
+    "provenance": {
+      "origin": "seededLocal",
+      "sourceRefs": [
+        {
+          "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+          "sourceType": "internalSeed",
+          "title": "Kyoto hotel control wall",
+          "creator": "SPARK Editorial",
+          "citationNote": "Seeded local artifact reference"
+        }
+      ],
+      "editorialMetadata": {
+        "curatedTitle": "Quiet capability",
+        "emphasisNote": "Visual artifact with a borrowable emotional move",
+        "whyChosen": "A concrete object that makes restraint feel actionable.",
+        "feedPriority": 100
+      }
+    },
+    "isFeatured": true,
+    "editorialPriority": 100,
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "updatedAt": "2026-01-01T00:00:00Z",
+    "payload": {
+      "family": "artifact",
+      "artifact": {
+        "artifactKind": "Interior control system",
+        "observedObject": "A hidden control wall in a boutique hotel room",
+        "focusPoints": [
+          "Capability is present but not announced.",
+          "Material treatment lowers cognitive noise.",
+          "Discovery feels intentional, not confusing."
+        ],
+        "borrowableMove": "Stage power as discovered calm instead of visible abundance.",
+        "artifactMediaNotes": "Look at how the concealment changes the felt tone of the room."
+      }
+    }
+  },
+  {
+    "id": "22222222-2222-2222-2222-222222222222",
+    "seedKey": "seed-case-founder-memo",
+    "family": "case",
+    "eyebrow": "Case",
+    "title": "Choosing a side sharpens the memo",
+    "summary": "The best founder memos do not sound comprehensive. They sound like someone finally chose a side.",
+    "detailBody": "The move is not adding more evidence. It is narrowing the frame until the reader can feel what the author believes and what the company should now refuse.",
+    "responseCue": "What are you still describing broadly instead of choosing decisively?",
+    "layoutEmphasis": "editorialHero",
+    "heroMediaID": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+    "media": [
+      {
+        "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+        "kind": "image",
+        "role": "hero",
+        "storageType": "remoteURL",
+        "storageValue": "https://picsum.photos/id/24/1200/800",
+        "caption": "Founder memo with a clear point of view",
+        "credit": "Seeded visual reference"
+      }
+    ],
+    "taxonomy": {
+      "domains": ["strategy", "product", "writing"],
+      "creativeGoalHints": ["betterStrategicThinking", "sharperInsight"],
+      "keywords": ["memo", "authorship", "clarity"],
+      "editorialTags": ["decision", "voice"]
+    },
+    "provenance": {
+      "origin": "seededLocal",
+      "sourceRefs": [
+        {
+          "id": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+          "sourceType": "internalSeed",
+          "title": "Founder memo pattern",
+          "creator": "SPARK Editorial",
+          "citationNote": "Seeded local case synthesis"
+        }
+      ],
+      "editorialMetadata": {
+        "whyChosen": "Grounds originality in a real creative behavior.",
+        "feedPriority": 90
+      }
+    },
+    "isFeatured": false,
+    "editorialPriority": 90,
+    "publishedAt": "2026-01-02T00:00:00Z",
+    "updatedAt": "2026-01-02T00:00:00Z",
+    "payload": {
+      "family": "case",
+      "caseStudy": {
+        "caseSubject": "Founder memo",
+        "situation": "A team needs direction after accumulating too many plausible options.",
+        "move": "The memo narrows the frame and takes a position instead of expanding the analysis.",
+        "outcome": "Readers leave with conviction, not just information.",
+        "lesson": "Originality often appears when a writer chooses a side and accepts exclusion.",
+        "evidenceNote": "Useful when a note feels informative but not decisive."
+      }
+    }
+  },
+  {
+    "id": "33333333-3333-3333-3333-333333333333",
+    "seedKey": "seed-pattern-felt-momentum",
+    "family": "pattern",
+    "eyebrow": "Pattern",
+    "title": "Felt momentum beats visible assistance",
+    "summary": "Tools feel more premium when the user notices their own momentum before they notice the interface.",
+    "detailBody": "The mechanism is simple: reduce proof-of-help moments and increase continuity of movement. The effect is confidence instead of dependency.",
+    "responseCue": "Where is your product interrupting the user just to prove it is helping?",
+    "layoutEmphasis": "mechanism",
+    "taxonomy": {
+      "domains": ["design", "technology", "ai"],
+      "creativeGoalHints": ["betterProductThinking", "strongerTaste"],
+      "keywords": ["momentum", "premium", "interface"],
+      "editorialTags": ["mechanism", "flow"]
+    },
+    "provenance": {
+      "origin": "seededLocal",
+      "sourceRefs": [
+        {
+          "id": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee",
+          "sourceType": "internalSeed",
+          "title": "Premium software interaction pattern",
+          "citationNote": "Seeded local pattern synthesis"
+        }
+      ],
+      "editorialMetadata": {
+        "whyChosen": "Turns taste into a reusable mechanism.",
+        "feedPriority": 85
+      }
+    },
+    "isFeatured": false,
+    "editorialPriority": 85,
+    "publishedAt": "2026-01-03T00:00:00Z",
+    "updatedAt": "2026-01-03T00:00:00Z",
+    "payload": {
+      "family": "pattern",
+      "pattern": {
+        "patternName": "Felt momentum",
+        "mechanism": "Minimize proof-of-help interruptions so progress feels self-authored.",
+        "conditions": "Works best when the user is already trying to stay in cognitive flow.",
+        "effect": "The interface feels premium because it leaves behind confidence.",
+        "whereItApplies": "Creative tools, AI surfaces, guided workflows, and product onboarding.",
+        "misuseWarning": "Do not hide necessary orientation or create ambiguity in the name of elegance."
+      }
+    }
+  },
+  {
+    "id": "44444444-4444-4444-4444-444444444444",
+    "seedKey": "seed-contrast-authorship",
+    "family": "contrast",
+    "eyebrow": "Contrast",
+    "title": "Informed vs authored",
+    "summary": "One product makes you feel informed. Another makes you feel authored. The gap is rarely information.",
+    "detailBody": "The tension is not feature breadth versus feature depth. It is the emotional difference between delivering facts and strengthening point of view.",
+    "responseCue": "Which side is your current work leaving the user on?",
+    "layoutEmphasis": "splitComparison",
+    "media": [
+      {
+        "id": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0",
+        "kind": "image",
+        "role": "left",
+        "storageType": "remoteURL",
+        "storageValue": "https://picsum.photos/id/42/1200/800",
+        "caption": "Information-heavy workspace",
+        "credit": "Seeded visual reference"
+      },
+      {
+        "id": "abababab-abab-abab-abab-abababababab",
+        "kind": "image",
+        "role": "right",
+        "storageType": "remoteURL",
+        "storageValue": "https://picsum.photos/id/58/1200/800",
+        "caption": "Authored creative environment",
+        "credit": "Seeded visual reference"
+      }
+    ],
+    "taxonomy": {
+      "domains": ["product", "design", "startups"],
+      "creativeGoalHints": ["betterProductThinking", "moreOriginalIdeas"],
+      "keywords": ["authorship", "product", "tension"],
+      "editorialTags": ["comparison", "taste"]
+    },
+    "provenance": {
+      "origin": "seededLocal",
+      "sourceRefs": [
+        {
+          "id": "12121212-1212-1212-1212-121212121212",
+          "sourceType": "internalSeed",
+          "title": "Product authorship contrast",
+          "citationNote": "Seeded local editorial contrast"
+        }
+      ],
+      "editorialMetadata": {
+        "whyChosen": "Sharpens the taste bar through side-by-side tension.",
+        "feedPriority": 80
+      }
+    },
+    "isFeatured": false,
+    "editorialPriority": 80,
+    "publishedAt": "2026-01-04T00:00:00Z",
+    "updatedAt": "2026-01-04T00:00:00Z",
+    "payload": {
+      "family": "contrast",
+      "contrast": {
+        "leftSide": {
+          "label": "Informed",
+          "summary": "The user receives more information, options, and explanations.",
+          "mediaID": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0"
+        },
+        "rightSide": {
+          "label": "Authored",
+          "summary": "The user leaves feeling more directed, shaped, and capable.",
+          "mediaID": "abababab-abab-abab-abab-abababababab"
+        },
+        "comparisonAxis": "Emotional outcome after use",
+        "tension": "Information increases volume. Authorship increases point of view.",
+        "editorialTake": "If the product wants to feel premium, optimize for the after-feeling, not the visible amount of help."
+      }
+    }
+  },
+  {
+    "id": "55555555-5555-5555-5555-555555555555",
+    "seedKey": "seed-collision-fashion-memo",
+    "family": "collision",
+    "eyebrow": "Collision",
+    "title": "Finance memo x fashion criticism",
+    "summary": "What happens if venture memos borrow more from fashion criticism than management consulting?",
+    "detailBody": "The goal is not novelty theater. It is using the collision to invent a new voice: sharper taste language, fewer false certainties, more attention to texture and mood.",
+    "responseCue": "Which two worlds would force your work into a fresher voice?",
+    "layoutEmphasis": "synthesis",
+    "taxonomy": {
+      "domains": ["finance", "markets", "writing"],
+      "creativeGoalHints": ["moreOriginalIdeas", "moreExpressiveThinking"],
+      "keywords": ["voice", "synthesis", "memo"],
+      "editorialTags": ["collision", "novelty"]
+    },
+    "provenance": {
+      "origin": "seededLocal",
+      "sourceRefs": [
+        {
+          "id": "34343434-3434-3434-3434-343434343434",
+          "sourceType": "internalSeed",
+          "title": "Cross-domain writing collision",
+          "citationNote": "Seeded local collision prompt"
+        }
+      ],
+      "editorialMetadata": {
+        "whyChosen": "Creates novelty through a concrete cross-domain synthesis.",
+        "feedPriority": 78
+      }
+    },
+    "isFeatured": false,
+    "editorialPriority": 78,
+    "publishedAt": "2026-01-05T00:00:00Z",
+    "updatedAt": "2026-01-05T00:00:00Z",
+    "payload": {
+      "family": "collision",
+      "collision": {
+        "worldA": "Venture memo",
+        "worldB": "Fashion criticism",
+        "collisionPremise": "Use criticism language to describe strategic positions with more taste and texture.",
+        "synthesisDirection": "Invent a financial writing voice that judges positioning like design, not just performance like a spreadsheet.",
+        "buildAngle": "Try rewriting one dry strategic note using the sensory and evaluative language of criticism."
+      }
+    }
+  }
+]
